@@ -9,9 +9,9 @@ A modern, responsive CRUD application built with React and Redux Toolkit for man
 
 </div>
 🚀 Live Demo
-[Add your deployment link here]
+[https://cheery-genie-127b76.netlify.app/]
 
-<!-- Example: [https://your-posts-manager.netlify.app](https://your-posts-manager.netlify.app) -->
+
 📋 Table of Contents
 Features
 
@@ -211,14 +211,14 @@ bash
 node --version  # Should be v14+
 
 # 2. Create new React app (if starting from scratch)
-npx create-react-app posts-manager
+npm create vite@latest posts-manager
 cd posts-manager
 
 # 3. Install required dependencies
 npm install @reduxjs/toolkit react-redux react-router-dom
 
 # 4. Start development server
-npm start
+npm run dev
 Build for Production
 bash
 # Create production build
@@ -291,10 +291,8 @@ React • Redux Toolkit • JavaScript • Professional UI/UX
 
 </div>
 📞 Contact
-Your Name
-https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin
-https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github
-📧 your.email@domain.com
+IGIHOZO Nelly
+📧 igihozonelly3@gmail.com
 
 This project was developed as a demonstration of modern React/Redux development practices and professional frontend engineering skills.
 
